@@ -12,15 +12,20 @@ torch==1.8.1
 
 numpy==1.21.2
 
-##Run the Demo
+
+## Run the Demo
 
 python mDLAM.py
 
-##Data
+
+## Data
+
 
 Four benchmark datasets Cora, PubMed, Citeseer, and Coauthor-CS are included in this package.
 
-##Cite
+
+## Cite
+
 
 Please cite our following paper if you use our MLP code in your own work:
 
