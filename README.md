@@ -1,5 +1,5 @@
 # mDLAM: Neural Network Training via monotonous Deep Learning Alternating Minimization 
-This is a implementation of monotonous Deep Learning Alternating Minimization(mDLAM) for the neural network training problem, as described in our paper:
+This is an implementation of monotonous Deep Learning Alternating Minimization(mDLAM) for the neural network training problem, as described in our paper:
 
 Junxiang Wang, Hongyi Li, and Liang Zhao. Accelerated Gradient-free Neural Network Training by Multi-convex Alternating Optimization. (Neurocomputing 2022)
 
